@@ -6,4 +6,4 @@ Finding the needed date in the Academic Calendar can be quite tedious. You eithe
 
 All you have to do now is ask the friendly Calendar Bot! Its interface is incredibly simple, and it retrieves information in a matter of seconds.
 
-(Chat now!)[http://www.tinyurl.com/calendarbot]
+[Chat now!](http://www.tinyurl.com/calendarbot)
